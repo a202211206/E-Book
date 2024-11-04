@@ -1,0 +1,74 @@
+[
+  {
+      "id": 1,
+      "name": "Python Programming",
+      "description": "An in-depth guide to Python programming for beginners and advanced users.",
+      "author": "John Doe",
+      "genre": "Programming",
+      "publication_date": "2021-05-01",
+      "price": 29.99
+  },
+  {
+      "id": 2,
+      "name": "Data Science Essentials",
+      "description": "Learn the basics of data science and how to work with data effectively.",
+      "author": "Jane Smith",
+      "genre": "Data Science",
+      "publication_date": "2020-08-15",
+      "price": 34.99
+  },
+  {
+      "id": 3,
+      "name": "Machine Learning 101",
+      "description": "A practical guide to getting started with machine learning.",
+      "author": "Alex Johnson",
+      "genre": "Artificial Intelligence",
+      "publication_date": "2019-11-22",
+      "price": 39.99
+  },
+  {
+      "id": 4,
+      "name": "Web Development with Django",
+      "description": "A comprehensive guide to building web applications with Django.",
+      "author": "Michael Lee",
+      "genre": "Web Development",
+      "publication_date": "2022-01-10",
+      "price": 25.99
+  },
+  {
+      "id": 5,
+      "name": "Introduction to Cybersecurity",
+      "description": "An introductory book on the principles and practices of cybersecurity.",
+      "author": "Emily White",
+      "genre": "Cybersecurity",
+      "publication_date": "2023-03-18",
+      "price": 42.50
+  },
+  {
+      "id": 6,
+      "name": "Advanced JavaScript",
+      "description": "Master advanced concepts in JavaScript programming.",
+      "author": "Chris Brown",
+      "genre": "Programming",
+      "publication_date": "2021-09-05",
+      "price": 27.99
+  },
+  {
+      "id": 7,
+      "name": "Digital Marketing Strategies",
+      "description": "A complete guide to modern digital marketing strategies.",
+      "author": "Sarah Green",
+      "genre": "Marketing",
+      "publication_date": "2020-07-21",
+      "price": 19.99
+  },
+  {
+      "id": 8,
+      "name": "Introduction to Blockchain",
+      "description": "A beginner's guide to understanding blockchain technology.",
+      "author": "Andrew Black",
+      "genre": "Technology",
+      "publication_date": "2018-06-30",
+      "price": 36.99
+  }
+]
